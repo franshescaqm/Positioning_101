@@ -1,0 +1,61 @@
+/*diseño encabezad0*/
+.link{
+  background: #9acd32;
+  text-align: left;
+  color: white;
+  position: absolute;
+  padding-bottom: 20px;
+  padding-top: 60px;
+  bottom: 600px;
+  left: 26px;
+  right: 26px;
+}
+
+
+/*poniendo el color de fondo: celeste*/
+body{
+  background: #87cefa
+}
+
+p{
+  text-align: left;
+
+}
+
+/*alineando los parrafos principales*/
+.box1{
+  position: absolute;
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 350px;
+  margin-bottom: 80px;
+  margin-top: 80px;
+  background: white;
+}
+
+/*Creando vuevo cuadro hacia la derecha*/
+.box_side{
+position: absolute;
+text-align: center;
+top:50px;
+right: -72px;
+margin: 100px;
+width: 300px;
+height: 790px;
+background: #ff7f50;
+}
+
+/*indicando que el footer se ubique abajo del parrafo*/
+.box2{
+  position: fixed;
+  bottom: 0;
+  left: 20px;
+  right: 18px;
+  background: #fa8072;
+}
+
+/*alineando el texto*/
+footer {
+  margin-left: 22px;
+  padding-top: 20px;
+}

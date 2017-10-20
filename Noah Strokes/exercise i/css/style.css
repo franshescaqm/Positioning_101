@@ -1,0 +1,22 @@
+/*alineando los parrafos principales*/
+.box1{
+  text-align: left;
+  margin-left: 220px;
+  margin-right: 220px;
+  margin-bottom: 40px;
+}
+
+/*indicando que el footer se ubique abajo del parrafo*/
+.box2{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+  background: #fa8072;
+}
+
+/*alineando el texto*/
+footer {
+  margin-left: 225px;
+}
